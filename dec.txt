@@ -1,0 +1,4 @@
+little	1
+barely	2
+never	2
+hardly	1
